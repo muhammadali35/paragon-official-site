@@ -23,9 +23,9 @@ const services = [
     },
     {
       id: 3,
-      title: 'iOS Apps',
+      title: 'Artificial Intelligence',
       description:
-        'A large community is using iphones in the world. We Design & Develop native iOS applications that dynamically adapt multiple screen sizes of iPhone & iPad. We will surely build your application which can compete at international level to get the ball rolling for your organization. The App Store is a platform provided by apple for distributing apps by developers to users.',
+        'Transform your business with our comprehensive suite of AI services, each crafted to improve decision-making, reduce operational costs, and elevate your overall customer experience. We harness the power of advanced AI to move your business forward. Our mission is to empower companies like yours with innovative AI solutions designed to enhance efficiency, boost scalability, and increase productivity',
       imgUrl: iOSApps, // Replace with actual image URL
     },
     {
